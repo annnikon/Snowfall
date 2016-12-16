@@ -1,2 +1,4 @@
 # Snowfall
-What about some snowflakes on your webpage? \n Start with main.html \n HTML+JS
+What about some snowflakes on your webpage? 
+Start with main.html.
+Technologies: HTML+JS
